@@ -42,8 +42,6 @@ We do not allow content or activity on crates.io that:
   countries the Rust Foundation officially operates in
 - is libelous, defamatory, or fraudulent
 - amounts to phishing or attempted phishing
-- infringes any proprietary right of any party, including patent, trademark,
-  trade secret, copyright, right of publicity, or other right
 - unlawfully shares unauthorized product licensing keys, software for
   generating unauthorized product licensing keys, or software for bypassing
   checks for product licensing keys, including extension of a free license
@@ -72,8 +70,6 @@ We do not allow content or activity on crates.io that:
   other names on crates.io for money or other compensation
 - impersonates any person or entity, including through false association with
   crates.io, or by fraudulently misrepresenting your identity or site's purpose
-- is related to inauthentic interactions, such as fake accounts and automated
-  inauthentic activity
 - is using our servers for any form of excessive automated bulk activity, to
   place undue burden on our servers through automated means, or to relay any
   form of unsolicited advertising or solicitation through our servers, such as
@@ -85,7 +81,6 @@ We do not allow content or activity on crates.io that:
 - is not functionally compatible with the cargo build tool (for example, a
   "package" cannot simply be a PNG or JPEG image, a movie file, or a text
   document uploaded directly to the registry)
-- is abusing the package index for purposes it was not intended
 
 You are responsible for using crates.io in compliance with all applicable laws,
 regulations, and all of our policies. These policies may be updated from time to
